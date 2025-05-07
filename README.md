@@ -100,3 +100,8 @@ Created a web application with:
 
 This case study demonstrates the effectiveness of machine learning approaches for sentiment analysis while highlighting the importance of appropriate preprocessing, feature engineering, and model selection in achieving robust performance.
 
+
+
+<img width="650" alt="image" src="https://github.com/user-attachments/assets/33842d6d-15ff-429f-b9a4-1313d38d7e1b" />
+
+
